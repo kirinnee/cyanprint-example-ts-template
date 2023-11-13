@@ -25,7 +25,7 @@ StartTemplateWithLambda(async (i, d) => {
   return {
     processors: [
       {
-        name: "kirinnee/dotnet-handlbar",
+        name: "kirinnee/dotnet-handlebar",
         files: [
           {
             glob: "**/*.*",
