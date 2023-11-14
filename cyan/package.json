@@ -1,5 +1,5 @@
 {
-  "name": "cyan",
+  "name": "template",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
